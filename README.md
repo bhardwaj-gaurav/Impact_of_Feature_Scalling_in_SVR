@@ -44,5 +44,5 @@ Evaluation and Visuals
 ![plot_without_FS](https://github.com/user-attachments/assets/fde52f56-3f19-46f0-97cf-bbba142f9b2d)  
 
 **Scaled SVR Model**  
-* R-Squared : 0.84
+* R-Squared : 0.84  
 ![Plot_with_FS](https://github.com/user-attachments/assets/61633d57-13ba-4c4b-8006-326deabc7426)
